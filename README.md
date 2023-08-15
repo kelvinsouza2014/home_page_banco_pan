@@ -69,3 +69,7 @@ Você pode acessar ao resultado final do projeto <a href="#">Clicando aqui</a>.
 ## 🙋🏻‍♂️ Autor
 
 Kelvin Souza
+
+<a href="https://www.linkedin.com/in/kelvinsouza00/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+</a>
