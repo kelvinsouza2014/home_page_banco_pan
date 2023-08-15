@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Status do projeto:-Em andamento-cc7002">
+
 <h1 align="center"> 📌Página inicial - Banco PAN</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc eget eros blandit facilisis. Etiam in suscipit purus. Cras molestie tincidunt quam, at laoreet diam aliquet fringilla. Aliquam erat volutpat.
