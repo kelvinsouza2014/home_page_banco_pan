@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc eget eros 
 - 📂 Temas abordados
 - 🏆 Desafio
 - 💻 Demonstração
-- 🙋🏻‍♂️ Autor
+- 🙋🏻‍♂️ Autor / Desenvolvedor
 
 <br>
 
@@ -66,7 +66,7 @@ Você pode acessar ao resultado final do projeto <a href="#">Clicando aqui</a>.
 
 <br>
 
-## 🙋🏻‍♂️ Autor
+## 🙋🏻‍♂️ Autor / Desenvolvedor
 
 Kelvin Souza
 
