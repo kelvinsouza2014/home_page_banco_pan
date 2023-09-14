@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc eget eros 
 <br>
 
 ## Protótipo
-![Screenshot](./src/img/images/prototype_banco_pan.png)
+![Screenshot](./assets/prototype/prototype_banco_pan.png)
 
 ## Resultado final
 
